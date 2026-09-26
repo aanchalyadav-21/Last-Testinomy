@@ -1,13 +1,53 @@
-# Prompts Used — The Last Testimony
 
-## Prompt 1 — Game concept
-Create an original browser-based mystery game called "The Last Testimony" for a prompt-based game challenge. The player is a detective who investigates randomly selected cases by interrogating suspects, discovering clues, making a final accusation, and receiving an analytics-based detective profile.
+## 2. `PROMPT.md`
 
-## Prompt 2 — Case design
-Create five original non-graphic mystery cases for The Last Testimony. Each case should contain a crime, four suspects, one culprit, a motive, method, critical/supporting clues, red herrings, and six interrogation questions with different questioning styles.
+Create another file named **`PROMPT.md`** and paste this:
 
-## Prompt 3 — Initial implementation
-Build a simple static browser MVP using HTML, CSS, and JavaScript. Include random case selection, suspect interrogation, evidence selection, final accusation, case reveal, and detective-style analytics.
+```markdown
+# AI Prompt Documentation
+## The Last Testimony
 
-## Prompt 4 — Phase 2 bug fix / branching interrogation
-Modify the existing The Last Testimony JavaScript so that clicking a question does not automatically move to the next suspect. Implement a proper interrogation flow where questions remain available until asked, asked questions disappear, discovered clues remain visible, and the player explicitly chooses "Finish Interrogation" before moving to the next suspect. Preserve all five existing cases, final accusation, evidence selection, and detective analytics.
+### Project Brief Prompt
+
+Create a browser-based interactive detective mystery game titled
+"The Last Testimony" using HTML, CSS, and JavaScript.
+
+The game should allow players to investigate a mystery by questioning
+suspects, examining clues, making investigative decisions, and delivering
+a final accusation.
+
+Include the following gameplay elements:
+
+1. A clear introduction to the mystery and its case.
+2. Interactive suspect questioning.
+3. Clues or evidence that the player can investigate.
+4. Player decisions that contribute to the investigation.
+5. A final accusation based on the player's investigation.
+6. A result screen that communicates the case outcome.
+7. A detective profile that reflects the player's investigative behavior.
+
+The interface should have a cohesive detective-mystery atmosphere,
+clear navigation, readable text, and intuitive interactions.
+
+Keep the game playable in a modern web browser without requiring
+additional software or installation.
+
+Use HTML for structure, CSS for styling, and JavaScript for gameplay
+logic and interactivity.
+
+### Development Prompt History
+
+Add the actual prompts used during development below, in chronological
+order. Include prompts used to create, modify, debug, or improve the game.
+
+#### Prompt 1 — Initial Game Creation
+[Paste the actual initial prompt used to create the game.]
+
+#### Prompt 2 — Gameplay or Interface Improvements
+[Paste the actual prompt used for the next change.]
+
+#### Prompt 3 — Debugging or Feature Refinement
+[Paste the actual prompt used for the next change.]
+
+#### Additional Prompts
+[Continue adding prompts in the order they were used.]
