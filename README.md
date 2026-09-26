@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # The Last Testimony — Phase 2
 
 Browser-based interactive mystery game for Prompt & Play.
@@ -11,3 +12,7 @@ Browser-based interactive mystery game for Prompt & Play.
 - Five original cases and detective analytics are preserved.
 
 Open `index.html` in a browser or use Live Server in VS Code.
+=======
+# Last-Testinomy
+A browser-based detective mystery game built with HTML, CSS, and JavaScript, featuring interactive suspect questioning, clue investigation, player choices, and dynamic detective profiles.
+>>>>>>> 6688761054a3a29cfad561836d795148e707df8e
